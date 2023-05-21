@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684700486 source:c:\users\estan\onedrive\Área de trabalho\t\t.cbp\process injection load\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
